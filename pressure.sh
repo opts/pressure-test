@@ -1,0 +1,2 @@
+#!/bin/bash --
+curl --keepalive-time 70 'http://120.24.225.219/opts/public/code/tce_test_execute.php?testid=88' -H 'Host: 120.24.225.219' -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0 FirePHP/0.7.4' -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 -H Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate' -H 'DNT: 1' -H 'Referer: http://120.24.225.219/' -H 'Cookie: LastVisit=1427295907; testing=1; PHPSESSID=99191ca4b03a69989c221182537a92de' -H 'x-insight: activate' -H 'Connection: keep-alive' 
